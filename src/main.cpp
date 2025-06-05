@@ -1,7 +1,8 @@
 #include <Arduino.h>
 
 
-// Original code: Modular in a Week, 2024, 2025
+// Original code: Modular in a Week, 2024, 2025/
+// See https://github.com/SourceryOne/Arduino-Sample-and-Hold
 
 /* JS Bouten 2025-03-05
    De functionaliteit waar ik op ben uitgekomen wijkt af van die die Kristian had geimplementeerd.
